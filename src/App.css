@@ -16,10 +16,11 @@ h1,h2,h3{
 
 h1{
   text-decoration: underline 5px solid #00ABB3;
+  font-size: 45px;
  }
 
  h2{
-  text-decoration: underline 5px solid gray;
+  font-size: 40px;
  }
 
  img{
